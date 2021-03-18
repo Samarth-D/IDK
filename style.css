@@ -1,0 +1,31 @@
+img {
+  height: 150px;
+  border-radius:100px;
+    
+}
+#welcome {
+  text-align:center;
+  background: linear-gradient(#00B0FF 0%,#7B1FA2 100% );
+  background-repeat:no-repeat;
+ 
+}
+.line {
+    width: 70px;
+    height: 6px;
+    background-color: aqua;
+    text-align: center;
+    margin: 8px auto;
+  margin-bottom: 30px: }
+      h1 {
+        text-shadow:2px 2px #F4511E;
+  }
+.menu {
+    list-style: none;
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    z-index: 10;
+    top: 20px;
+    right: 30px;
+    cursor: pointer;
+
+}
